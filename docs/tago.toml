@@ -1,0 +1,10 @@
+title       = "taobao"
+baseURL     = "https://taobao-cli.tamnd.com/"
+description = "Search Taobao listings from the command line"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/taobao-cli"
